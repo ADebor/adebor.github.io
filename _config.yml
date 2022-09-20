@@ -42,11 +42,11 @@ logo:                  /assets/img/portrait1.PNG
 author:
   # Used by `jekyll-feed`:
   name:                Antoine Debor
-  email:               antoinedebor@gmail.com
+  email:               adebor@uliege.be
   social: 
     github: ADebor
     linkedin: antoinedebor
-    email: antoinedebor@gmail.com
+    email: adebor@uliege.be
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -72,6 +72,7 @@ paginate_path:         /:num/
 
 
 # Theme
+
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
