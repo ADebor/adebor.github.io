@@ -3,8 +3,8 @@
 # Change `author1` to your shortname.
 author1:
   name:              antoine debor
-  email:             antoinedebor@gmail.com
-
+  email:             adebor@uliege.be
+  
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
@@ -24,7 +24,7 @@ author1:
   social:
     #twitter:         <username>
     github:          ADebor
-    email:           antoinedebor@gmail.com
+    email:           adebor@uliege.be
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
