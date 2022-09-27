@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi there ! I'm a PhD student in Intelligent Robotics in the Department of Electrical Engineering and Computer Science (*aka* [Montefiore Institute](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute){:target="_blank"}) at the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege){:target="_blank"} (Belgium).
+    Hi there ! I'm a PhD student in Intelligent Robotics under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/) and [Pierre Sacré](https://people.montefiore.uliege.be/sacre/) in the Department of Electrical Engineering and Computer Science (*aka* [Montefiore Institute](https://www.montefiore.uliege.be/cms/c_3482888/en/montefiore-institute){:target="_blank"}) at the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege){:target="_blank"} (Belgium).
 
   # This photo will be used in the about section
   #picture:

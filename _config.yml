@@ -28,7 +28,9 @@ description:           >
   Personal webpage of Antoine Debor, PhD student in Intelligent Robotics at ULiège.
 
 # A shorter description for the sidebar.
-tagline:               PhD student in Intelligent Robotics at ULiège.
+tagline:     PhD student in Intelligent Robotics at ULiège.
+
+          
 
 # A list of keywords for your blog
 keywords:              []
@@ -54,8 +56,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Students
-    url:               /students/
+  - title:             Publications
+    url:               /publications/
+  - title:             Teaching
+    url:               /teaching/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
