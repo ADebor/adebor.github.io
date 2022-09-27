@@ -59,9 +59,9 @@ menu:
   - title:             Publications
     url:               /publications/
   - title:             Teaching
-    url:               /teaching/
-  - title:             Contact
     url:               /students/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
