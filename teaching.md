@@ -4,10 +4,15 @@ Here you can find course materials and pointers for classes I'm involved in, as 
 
 ## Teaching assistant
 
-### 2023-2024
+### 2024-2025
 
 - SYST0002-2: [Introduction to signals and systems](syst0002.md) (French)
 - MATH0487-2: [Elements of statistics](https://people.montefiore.uliege.be/sacre/MATH0487/){:target="_blank"}
+
+### 2023-2024
+
+- SYST0002-2: Introduction to signals and systems (French)
+- MATH0487-2: [Elements of statistics](https://people.montefiore.uliege.be/sacre/MATH0487-fa23/){:target="_blank"}
 
 ### 2022-2023
 
